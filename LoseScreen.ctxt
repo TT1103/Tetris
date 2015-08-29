@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=score\ level\ linesCleared
+comment0.target=LoseScreen(int,\ int,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ LoseScreen.\n\ @param\ score\ the\ score\ that\ the\ user\ had\ when\ they\ lost\ the\ game\n\ @param\ level\ the\ current\ level\ of\ the\ user\ when\ they\ lost\ the\ game\n\ @param\ linesCleared\ the\ total\ number\ of\ lines\ cleared\ when\ they\ lost\ the\ game\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ act\ method\ for\ the\ class\ LoseScreen\n\ This\ method\ is\ continuously\ run.\n
+numComments=2
